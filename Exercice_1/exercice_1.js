@@ -4,5 +4,5 @@ function ajouterContour() {
 
 
   function enleverContour() {
-    document.getElementById("monImage").style.border = "1px solid #ccc";
+    document.getElementById("monImage").style.border = "none";
   }
